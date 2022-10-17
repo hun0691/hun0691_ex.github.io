@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://hun0691.github.io/sitemap.xml

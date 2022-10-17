@@ -1,25 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Kiss theme</title>
+    <title>Read, Write, Memory</title>
     <link>https://hun0691.github.io/</link>
-    <description>Recent content on Hugo Kiss theme</description>
+    <description>Recent content on Read, Write, Memory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Fri, 17 May 2019 06:42:29 +0000</lastBuildDate>
-    
-	<atom:link href="https://hun0691.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Test</title>
-      <link>https://hun0691.github.io/test/</link>
-      <pubDate>Fri, 17 May 2019 06:42:29 +0000</pubDate>
-      
-      <guid>https://hun0691.github.io/test/</guid>
-      <description></description>
-    </item>
-    
+    <language>ko-KR</language>
+    <managingEditor>test (JungHOON)</managingEditor>
+    <webMaster>test (JungHOON)</webMaster><atom:link href="https://hun0691.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
